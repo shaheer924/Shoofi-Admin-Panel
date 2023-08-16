@@ -9,7 +9,11 @@ import ResetPassword from './components/ResetPassword';
 
 function App() {
   return (
-   <h1>Hello World</h1>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/reset-password/:token" element={<ResetPassword />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
