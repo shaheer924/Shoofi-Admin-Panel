@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hoofi-Admin-Panel/static/css/main.173f2a7a.css",
-    "main.js": "/hoofi-Admin-Panel/static/js/main.731a443c.js",
+    "main.js": "/hoofi-Admin-Panel/static/js/main.20672c9d.js",
     "static/js/787.59fbfb71.chunk.js": "/hoofi-Admin-Panel/static/js/787.59fbfb71.chunk.js",
     "index.html": "/hoofi-Admin-Panel/index.html",
     "main.173f2a7a.css.map": "/hoofi-Admin-Panel/static/css/main.173f2a7a.css.map",
-    "main.731a443c.js.map": "/hoofi-Admin-Panel/static/js/main.731a443c.js.map",
+    "main.20672c9d.js.map": "/hoofi-Admin-Panel/static/js/main.20672c9d.js.map",
     "787.59fbfb71.chunk.js.map": "/hoofi-Admin-Panel/static/js/787.59fbfb71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.173f2a7a.css",
-    "static/js/main.731a443c.js"
+    "static/js/main.20672c9d.js"
   ]
 }
